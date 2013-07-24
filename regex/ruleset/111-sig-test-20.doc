@@ -1,0 +1,5 @@
+﻿1-20条
+timky@ubuntu:~/Desktop/rule$ ./start_example_D.sh
+>> file: regex/ruleset/ruleset23.txt
+test regex number is 111, group DFA size is 23918
+>> preprocessing time: 287310ms
